@@ -1,0 +1,4 @@
+{
+    "name": "martins/terraform-aws-vpc",
+    "type": "terraform-module"
+}
